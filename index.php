@@ -25,6 +25,15 @@
 
     <!-- Cards -->
     <?php require_once 'cards/cards.html'; ?>
+    
+    <!-- Card doble -->
+    
+    
+    <!-- Formulario -->
+    
+    
+    <!-- Footer -->
+
 
   </main>
 
